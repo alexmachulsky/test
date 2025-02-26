@@ -15,4 +15,4 @@ jobs:
 
 
       - name: Executing Shell Script
-        run: ./ascii.sh
+        run: ./ascii-script.sh
